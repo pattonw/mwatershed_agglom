@@ -1,0 +1,6 @@
+numpy
+pymongo
+daisy
+funlib.persistence
+funlib.geometry
+funlib.segment
